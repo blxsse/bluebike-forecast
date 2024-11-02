@@ -1,0 +1,1 @@
+# read in list of stations and compute the 3 closest stations to each station
